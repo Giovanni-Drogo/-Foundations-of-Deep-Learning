@@ -1,6 +1,6 @@
 # -Foundations-of-Deep-Learning
-My personal lab and project implementations for the "Fundations of Deep Learning" course taught by Professor Sun Xiaoguang at Fudan University, Spring 2025.
+This assignment involves the debugging and application of classic convolutional neural networks, specifically AlexNet, ResNet, and EfficientNet. 
 
-You can change the branch to the homework including lab reports and codes in juypter or python format.
+You can observe corresponding changes in the models by modifying the number of training epochs and the learning rate, including training time and accuracy, among other factors. 
 
-What's more, I also upload the PPTs which Professor Sun used to presentions his points succinctly and cleraly.
+I have also included relevant charts in my report for your reference.
