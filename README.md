@@ -1,6 +1,4 @@
 # -Foundations-of-Deep-Learning
-My personal lab and project implementations for the "Fundations of Deep Learning" course taught by Professor Sun Xiaoguang at Fudan University, Spring 2025.
-
-You can change the branch to the homework including lab reports and codes in juypter or python format.
-
-What's more, I also upload the PPTs which Professor Sun used to presentions his points succinctly and cleraly.
+前馈神经网络的相关实验报告及代码，具体的调参细节可以在报告中查看。
+你可以通过这个报告，了解最基础的神经网络-feed forward neural network
+可以说，这个是本人在深度学习领域的第一次尝试。
