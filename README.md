@@ -1,6 +1,2 @@
 # -Foundations-of-Deep-Learning
-My personal lab and project implementations for the "Fundations of Deep Learning" course taught by Professor Sun Xiaoguang at Fudan University, Spring 2025.
-
-You can change the branch to the homework including lab reports and codes in juypter or python format.
-
-What's more, I also upload the PPTs which Professor Sun used to presentions his points succinctly and cleraly.
+This is a relevant lab and experimentation involving recurrent neural networks such as RNN and LSTM. By adjusting parameters related to RNN and LSTM, such as the number of layers, activation functions, and the number of LSTM layers, the experiments observe and compare different results on the same dataset—specifically, a weather dataset. The lab report provides a more detailed explanation.
