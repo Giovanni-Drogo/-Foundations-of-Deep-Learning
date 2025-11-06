@@ -1,6 +1,2 @@
 # -Foundations-of-Deep-Learning
-My personal lab and project implementations for the "Fundations of Deep Learning" course taught by Professor Sun Xiaoguang at Fudan University, Spring 2025.
-
-You can change the branch to the homework including lab reports and codes in juypter or python format.
-
-What's more, I also upload the PPTs which Professor Sun used to presentions his points succinctly and cleraly.
+This assignment involves the practical application of CNNs such as YOLO and ResNet in the field of computer vision. Using an image as an example, it covers image augmentation, semantic segmentation, and style transfer. Pre-training was conducted using the small dataset "sports," and the results were compared with those of a model without pre-training. Relevant results and resources have been listed in detail.
