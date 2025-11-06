@@ -53,5 +53,5 @@ I have also uploaded the course presentation slides (`PPTs/`) used by Professor 
 
 ---
 
-*Last updated: September 2025*** for structured data.
+**Last updated: Novemeber 2025*** for structured data.
 - Local deployment and interaction with Large Language Models (LLMs) using tools like Ollama.
